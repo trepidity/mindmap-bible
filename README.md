@@ -17,7 +17,7 @@ This project is built with Obsidian => [Obsidian - Sharpen your thinking](https:
 
 ### Fear God
 
-### Sanctification
+### [[Sanctification]]
 
 ### Reading books other than the Bible
 
