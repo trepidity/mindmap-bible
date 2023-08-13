@@ -11,7 +11,7 @@ This project is built with Obsidian => [Obsidian - Sharpen your thinking](https:
 
 ## Us and God
 
-### Prayer
+### [[Prayer]]
 
 ### Reading the Bible
 

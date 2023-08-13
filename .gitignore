@@ -398,7 +398,3 @@ FodyWeavers.xsd
 *.sln.iml
 
 
-
-#Obsidian Stuff
-./obsidian/*
-
