@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d66e00558a617441",
+        "id": "3becf668e0b2155a",
         "type": "tabs",
         "children": [
           {
-            "id": "ff0e8ffb284eeb4e",
+            "id": "23dd1bc54c4d9ab8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff0e8ffb284eeb4e",
+  "active": "23dd1bc54c4d9ab8",
   "lastOpenFiles": [
+    "Church-related Matters.md",
+    "Doctrine Related Topics.md",
+    "Living in Obedience.md",
+    "README.md",
+    "The Three.md",
     "The Bible.md",
     "Us and God.md"
   ]
