@@ -1,5 +1,12 @@
 An outline of the Bible. Covering the various topics that the Bible covers. The idea is what references can one go to for various topics.
 
+This project is built with Obsidian => [Obsidian - Sharpen your thinking](https://obsidian.md/)
+
+## Installation
+1. Download and install Obsidian.
+2. Clone the repo
+3. Open Obsidian and chose open existing vault (folder)
+
 # The Bible
 
 ## Us and God
